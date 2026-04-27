@@ -15,7 +15,7 @@
 ## Sobre mim
 
 - 🎂 23 anos
-- 💻 Desenvolvedor Full Stack
+- 💻 Desenvolvedor Back End
 - ⚡ Obcecado por performance
 - 🦀 Evangelizador Rust
 
