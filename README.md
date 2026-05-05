@@ -1,6 +1,6 @@
 # E aí, eu sou o Bruno 👋
 
-**Desenvolvedor Full Stack** | Amante de Rust | Focado em Performance
+**Desenvolvedor Back End** | Amante de Rust | Focado em Performance
 
 ---
 
