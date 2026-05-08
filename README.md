@@ -4,8 +4,8 @@
 
 ## Sobre mim
 
-- 🎂 23 anos
-- 💻 Desenvolvedor Back End
-- ⚡ Obcecado por performance
-- 🦀 Evangelizador Rust
+- 23 anos
+- Desenvolvedor Back End
+- Obcecado por performance
+- Evangelizador Rust
 
