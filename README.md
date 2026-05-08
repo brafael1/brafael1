@@ -1,4 +1,4 @@
-# E aí, eu sou o Bruno 👋
+# Bruno Rafael
 
 **Desenvolvedor Back End** | Amante de Rust | Focado em Performance
 
