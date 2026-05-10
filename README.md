@@ -5,8 +5,8 @@
 ## Sobre mim
 
 - 23 anos
-- Desenvolvedor Back End
 - Obcecado por performance
+- Adorador de Puzzles
 - Evangelizador Rust
 
 ## Redes sociais
