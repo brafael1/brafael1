@@ -2,10 +2,6 @@
 
 **Desenvolvedor Back End** | Amante de Rust | Focado em Performance
 
-## Linguagens
-
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brafael1&show_icons=true&theme=tokyonight)](https://github.com/brafael1/github-readme-stats)
-
 ## Sobre mim
 
 - 23 anos
@@ -13,9 +9,11 @@
 - Adorador de Puzzles
 - Evangelizador Rust
 
-## Redes sociais
-<div>
-  <a href="https://www.linkedin.com/in/bruno-rafael-medeiros-mateus-a63207284/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+## Mais detalhes
+
+<p align="center">
+    <a style="width: 100%">
+        <img src="https://discord-activity-card.vercel.app/api/status/1147766200370200667?profile=true&small_image=true&bg=1a1b26&border=292e42&title=c0caf5&name_color=7aa2f7&text=a9b1d6&time=565f89&bar_bg=292e42&bar_fg=7aa2f7" height="150px"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brafael1&show_icons=true&theme=tokyonight&layout=compact&hide_border=true">
+
+</p>
