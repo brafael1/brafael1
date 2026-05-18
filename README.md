@@ -17,3 +17,8 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brafael1&show_icons=true&theme=tokyonight&layout=compact&hide_border=true">
 
 </p>
+
+<p align="center">
+    <a style="width: 100%">
+        <img src="https://media.tenor.com/2yzvgWyZK7kAAAAj/animation-pixel-art.gif">
+</p>
