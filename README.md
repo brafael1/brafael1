@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-- 23 anos
+- 22 anos
 - Obcecado por performance
 - Adorador de Puzzles
 - Evangelizador Rust
