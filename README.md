@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=brafael1)
+
 # Bruno Rafael
 
 **Desenvolvedor Back End** | Amante de Rust | Focado em Performance
