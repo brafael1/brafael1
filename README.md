@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=brafael1)
+![](https://komarev.com/ghpvc/?username=brafael1&color=yellow)
 
 # Bruno Rafael
 
